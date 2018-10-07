@@ -1,0 +1,6 @@
+dbDriverName=QMYSQL
+hostName=localhost
+port=3306
+dbName=qt
+dbUsername=orbalt
+dbPassword=root
