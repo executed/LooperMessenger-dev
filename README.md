@@ -9,6 +9,6 @@ Run:
 To run or modify each module you should use QtCreator.
 In settings choose 'open project' and click on file .pro to load project module.
 You have to configure database configuration(search for resources.qrc in lab2_server structure and modify data in config.txt)
-To establish connection to DB you also need to have similar tables structure. All MySql data you can import from directory 'sql'.
+To establish connection to DB you also need to have similar tables structure. All MySql data you can import from directory 'sql', file 'qt_looper.dump'.
 
 Hope you'll enjoy this messanger)
